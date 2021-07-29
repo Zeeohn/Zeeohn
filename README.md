@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeeohn
+- 👋 Hi, I’m @TechyZee
 - 👀 I’m interested in Software Devlopment, Web App Develpment using MERN stack, IOT Engineering, and Cyber Security
 - 🌱 I’m currently learning MERN Stack, C++
 - 💞️ I’m looking to collaborate on Website development and web app developments
